@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+pdfplumber
+python-docx
+google-generativeai

@@ -1,0 +1,9 @@
+ Confirm Response Data : {"expiration":"202701","cardholderName":"NEKKAA ABDELKADER","depositAmount":66548900,"currency":"012","authorizationResponseId":"891770","approvalCode":"891770",
+"actionCode":0,"actionCodeDescription":"Votre paiement a été accepté",
+"ErrorCode":"0","ErrorMessage":"Success","OrderStatus":2,
+"OrderNumber":"2510000099","Pan":"628058**7215","Amount":66548900,"Ip":"41.111.147.213","Description":"","params":{"respCode_desc":"Your Payment was accepted.","udf3":"5040200002025GEN0000","udf4":"01I","udf1":"00806001906006200156","respCode":"00"},"SvfeResponse":"00"
+
+
+
+
+
